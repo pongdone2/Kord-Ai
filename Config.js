@@ -1,5 +1,5 @@
 global.settings = {
-    OWNER_NUMBERS: "2347013159244", // replace with your number
+    OWNER_NUMBERS: "23233611028", // replace with your number
     OWNER_NAME: 'Miracle', // desired name
     BOT_NAME: "KORD", // desired name
     VERSION: 'V1.0.0',
